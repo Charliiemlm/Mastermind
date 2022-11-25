@@ -1,0 +1,119 @@
+body{
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1, h2{
+    color: white;
+}
+
+table{
+    border: 5px solid white;
+    border-collapse: collapse;
+    color: white;
+}
+
+td{
+    height: 25px;
+    width: 25px;
+    border: 1px solid white;
+    text-align: center;
+    padding: 30px;
+}
+
+.td5{
+    border-left: 5px solid white;
+}
+
+.rojo{
+    background-color: red
+}
+
+.azul{
+    background-color: blue
+}
+
+.verde{
+    background-color: green
+}
+
+.amarillo{
+    background-color: yellow
+}
+
+.naranja{
+    background-color: orange
+}
+
+.rosa{
+    background-color: pink
+}
+
+.cl1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.cl2{
+    background-color: blue;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.cl3{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.cl4{
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.cl5{
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.cl6{
+    background-color: pink;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.black{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.white{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.jugar{
+    width: 30%;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40%;
+}
