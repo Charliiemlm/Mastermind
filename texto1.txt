@@ -1,5 +1,0 @@
-frutas:
--pera
--manzana
--platano
--mango
